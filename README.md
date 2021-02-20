@@ -1,2 +1,2 @@
-# Donation-website
-its a simple donation website
+# Simple-Donation-Website
+created by Parag Wayangankar
